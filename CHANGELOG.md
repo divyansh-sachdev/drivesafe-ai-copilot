@@ -1,0 +1,1 @@
+- **2026-01-04 11:48:44**: fix: calibrate baseline sensor offset against reference multimeter
