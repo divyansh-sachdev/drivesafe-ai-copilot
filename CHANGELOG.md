@@ -2,3 +2,4 @@
 - **2026-01-04 15:19:18**: docs: clarify licensing and hardware bill of materials
 - **2026-01-05 10:06:15**: feat: add visual status LED pulse code for diagnostic mode
 - **2026-01-05 15:19:42**: fix: calibrate baseline sensor offset against reference multimeter
+- **2026-01-06 15:50:44**: docs: update README setup instructions and dependencies
