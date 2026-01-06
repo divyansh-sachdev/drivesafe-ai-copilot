@@ -3,3 +3,4 @@
 - **2026-01-05 10:06:15**: feat: add visual status LED pulse code for diagnostic mode
 - **2026-01-05 15:19:42**: fix: calibrate baseline sensor offset against reference multimeter
 - **2026-01-06 15:50:44**: docs: update README setup instructions and dependencies
+- **2026-01-06 18:19:38**: docs: add circuit wiring pinout and power consumption profile
