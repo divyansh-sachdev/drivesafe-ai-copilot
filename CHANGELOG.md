@@ -5,3 +5,4 @@
 - **2026-01-06 15:50:44**: docs: update README setup instructions and dependencies
 - **2026-01-06 18:19:38**: docs: add circuit wiring pinout and power consumption profile
 - **2026-01-06 21:22:10**: fix: resolve floating point conversion precision issue
+- **2026-01-08 15:53:31**: perf: tune I2C bus frequency to 400kHz for sensor polling
