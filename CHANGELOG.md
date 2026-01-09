@@ -8,3 +8,4 @@
 - **2026-01-08 15:53:31**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2026-01-08 17:22:19**: feat: add visual status LED pulse code for diagnostic mode
 - **2026-01-09 11:27:32**: feat: implement moving average filter for noise suppression
+- **2026-01-09 21:21:12**: refactor: optimize ADC sampling window and reduce jitter
