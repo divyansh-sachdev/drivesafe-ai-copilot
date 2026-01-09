@@ -7,3 +7,4 @@
 - **2026-01-06 21:22:10**: fix: resolve floating point conversion precision issue
 - **2026-01-08 15:53:31**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2026-01-08 17:22:19**: feat: add visual status LED pulse code for diagnostic mode
+- **2026-01-09 11:27:32**: feat: implement moving average filter for noise suppression
