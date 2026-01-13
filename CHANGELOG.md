@@ -11,3 +11,4 @@
 - **2026-01-09 21:21:12**: refactor: optimize ADC sampling window and reduce jitter
 - **2026-01-13 11:07:24**: docs: update README setup instructions and dependencies
 - **2026-01-13 16:45:49**: refactor: simplify state machine transition logic
+- **2026-01-13 17:41:22**: feat: implement moving average filter for noise suppression
