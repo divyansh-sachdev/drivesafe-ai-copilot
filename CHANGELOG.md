@@ -12,3 +12,4 @@
 - **2026-01-13 11:07:24**: docs: update README setup instructions and dependencies
 - **2026-01-13 16:45:49**: refactor: simplify state machine transition logic
 - **2026-01-13 17:41:22**: feat: implement moving average filter for noise suppression
+- **2026-01-18 17:15:33**: test: validate thermal stability over continuous 6-hour test run
