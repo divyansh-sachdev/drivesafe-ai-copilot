@@ -15,3 +15,4 @@
 - **2026-01-18 17:15:33**: test: validate thermal stability over continuous 6-hour test run
 - **2026-01-18 17:18:27**: test: verify timer interrupt latency under heavy load
 - **2026-01-19 11:43:50**: docs: clarify licensing and hardware bill of materials
+- **2026-01-19 14:34:34**: feat: add dynamic threshold adaptation for environmental drift
