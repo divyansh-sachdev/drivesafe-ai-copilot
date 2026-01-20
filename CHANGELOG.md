@@ -18,3 +18,4 @@
 - **2026-01-19 14:34:34**: feat: add dynamic threshold adaptation for environmental drift
 - **2026-01-19 14:39:25**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2026-01-20 10:19:12**: test: verify timer interrupt latency under heavy load
+- **2026-01-20 17:30:27**: docs: document serial protocol packet structure and error codes
