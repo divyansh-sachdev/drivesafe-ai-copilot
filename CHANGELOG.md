@@ -17,3 +17,4 @@
 - **2026-01-19 11:43:50**: docs: clarify licensing and hardware bill of materials
 - **2026-01-19 14:34:34**: feat: add dynamic threshold adaptation for environmental drift
 - **2026-01-19 14:39:25**: perf: tune FreeRTOS task priority to eliminate frame drops
+- **2026-01-20 10:19:12**: test: verify timer interrupt latency under heavy load
