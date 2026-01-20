@@ -19,3 +19,4 @@
 - **2026-01-19 14:39:25**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2026-01-20 10:19:12**: test: verify timer interrupt latency under heavy load
 - **2026-01-20 17:30:27**: docs: document serial protocol packet structure and error codes
+- **2026-01-20 20:19:30**: test: verify timer interrupt latency under heavy load
