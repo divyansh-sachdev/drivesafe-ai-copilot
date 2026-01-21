@@ -21,3 +21,4 @@
 - **2026-01-20 17:30:27**: docs: document serial protocol packet structure and error codes
 - **2026-01-20 20:19:30**: test: verify timer interrupt latency under heavy load
 - **2026-01-21 14:21:18**: docs: update README setup instructions and dependencies
+- **2026-01-21 17:18:41**: docs: document serial protocol packet structure and error codes
