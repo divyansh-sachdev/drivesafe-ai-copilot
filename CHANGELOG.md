@@ -24,3 +24,4 @@
 - **2026-01-21 17:18:41**: docs: document serial protocol packet structure and error codes
 - **2026-01-21 18:46:39**: test: benchmark inference execution speed on ESP32 dual-core
 - **2026-01-22 17:19:18**: fix: calibrate baseline sensor offset against reference multimeter
+- **2026-01-22 18:42:35**: feat: add dynamic threshold adaptation for environmental drift
