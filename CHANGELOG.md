@@ -26,3 +26,4 @@
 - **2026-01-22 17:19:18**: fix: calibrate baseline sensor offset against reference multimeter
 - **2026-01-22 18:42:35**: feat: add dynamic threshold adaptation for environmental drift
 - **2026-01-22 20:21:47**: refactor: modularize signal processing functions into separate header
+- **2026-01-23 10:12:19**: refactor: simplify state machine transition logic
