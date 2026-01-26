@@ -27,3 +27,4 @@
 - **2026-01-22 18:42:35**: feat: add dynamic threshold adaptation for environmental drift
 - **2026-01-22 20:21:47**: refactor: modularize signal processing functions into separate header
 - **2026-01-23 10:12:19**: refactor: simplify state machine transition logic
+- **2026-01-26 18:29:48**: test: verify timer interrupt latency under heavy load
