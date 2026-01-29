@@ -31,3 +31,4 @@
 - **2026-01-28 10:48:17**: test: verify timer interrupt latency under heavy load
 - **2026-01-28 17:12:28**: refactor: simplify state machine transition logic
 - **2026-01-28 20:53:27**: test: validate thermal stability over continuous 6-hour test run
+- **2026-01-29 10:51:26**: test: benchmark inference execution speed on ESP32 dual-core
