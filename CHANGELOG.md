@@ -33,3 +33,4 @@
 - **2026-01-28 20:53:27**: test: validate thermal stability over continuous 6-hour test run
 - **2026-01-29 10:51:26**: test: benchmark inference execution speed on ESP32 dual-core
 - **2026-01-29 20:53:21**: refactor: modularize signal processing functions into separate header
+- **2026-01-30 16:45:42**: refactor: optimize ADC sampling window and reduce jitter
