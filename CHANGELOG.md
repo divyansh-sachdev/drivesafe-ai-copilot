@@ -35,3 +35,4 @@
 - **2026-01-29 20:53:21**: refactor: modularize signal processing functions into separate header
 - **2026-01-30 16:45:42**: refactor: optimize ADC sampling window and reduce jitter
 - **2026-02-01 20:54:43**: docs: clarify licensing and hardware bill of materials
+- **2026-02-03 10:12:33**: fix: prevent buffer underflow during rapid sensor reads
