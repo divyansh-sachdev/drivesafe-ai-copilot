@@ -37,3 +37,4 @@
 - **2026-02-01 20:54:43**: docs: clarify licensing and hardware bill of materials
 - **2026-02-03 10:12:33**: fix: prevent buffer underflow during rapid sensor reads
 - **2026-02-04 11:53:44**: refactor: clean up debug logs and serial telemetry
+- **2026-02-04 14:13:40**: fix: calibrate baseline sensor offset against reference multimeter
