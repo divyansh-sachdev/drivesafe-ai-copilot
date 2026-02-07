@@ -38,3 +38,4 @@
 - **2026-02-03 10:12:33**: fix: prevent buffer underflow during rapid sensor reads
 - **2026-02-04 11:53:44**: refactor: clean up debug logs and serial telemetry
 - **2026-02-04 14:13:40**: fix: calibrate baseline sensor offset against reference multimeter
+- **2026-02-07 10:42:45**: feat: add EEPROM configuration persistence for user settings
