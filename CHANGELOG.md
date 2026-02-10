@@ -40,3 +40,4 @@
 - **2026-02-04 14:13:40**: fix: calibrate baseline sensor offset against reference multimeter
 - **2026-02-07 10:42:45**: feat: add EEPROM configuration persistence for user settings
 - **2026-02-08 10:09:50**: test: benchmark inference execution speed on ESP32 dual-core
+- **2026-02-10 14:51:46**: refactor: modularize signal processing functions into separate header
