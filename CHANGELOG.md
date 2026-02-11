@@ -41,3 +41,4 @@
 - **2026-02-07 10:42:45**: feat: add EEPROM configuration persistence for user settings
 - **2026-02-08 10:09:50**: test: benchmark inference execution speed on ESP32 dual-core
 - **2026-02-10 14:51:46**: refactor: modularize signal processing functions into separate header
+- **2026-02-11 19:31:22**: refactor: optimize ADC sampling window and reduce jitter
