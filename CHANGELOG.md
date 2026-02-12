@@ -43,3 +43,4 @@
 - **2026-02-10 14:51:46**: refactor: modularize signal processing functions into separate header
 - **2026-02-11 19:31:22**: refactor: optimize ADC sampling window and reduce jitter
 - **2026-02-12 11:08:35**: feat: add visual status LED pulse code for diagnostic mode
+- **2026-02-12 18:34:13**: refactor: clean up debug logs and serial telemetry
