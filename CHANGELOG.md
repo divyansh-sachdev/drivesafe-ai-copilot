@@ -45,3 +45,4 @@
 - **2026-02-12 11:08:35**: feat: add visual status LED pulse code for diagnostic mode
 - **2026-02-12 18:34:13**: refactor: clean up debug logs and serial telemetry
 - **2026-02-17 14:31:41**: refactor: clean up debug logs and serial telemetry
+- **2026-02-18 10:15:34**: perf: optimize memory footprint by reducing ring buffer depth
