@@ -47,3 +47,4 @@
 - **2026-02-17 14:31:41**: refactor: clean up debug logs and serial telemetry
 - **2026-02-18 10:15:34**: perf: optimize memory footprint by reducing ring buffer depth
 - **2026-02-21 20:47:41**: feat: add visual status LED pulse code for diagnostic mode
+- **2026-02-24 11:16:14**: docs: add circuit wiring pinout and power consumption profile
