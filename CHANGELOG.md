@@ -50,3 +50,4 @@
 - **2026-02-24 11:16:14**: docs: add circuit wiring pinout and power consumption profile
 - **2026-02-24 18:12:46**: feat: add EEPROM configuration persistence for user settings
 - **2026-02-25 10:44:15**: feat: implement moving average filter for noise suppression
+- **2026-02-27 17:20:26**: docs: document serial protocol packet structure and error codes
