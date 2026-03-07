@@ -55,3 +55,4 @@
 - **2026-02-28 20:18:42**: feat: add hardware failsafe watchdog timer routine
 - **2026-03-03 19:39:29**: docs: update README setup instructions and dependencies
 - **2026-03-07 15:48:50**: refactor: clean up debug logs and serial telemetry
+- **2026-03-07 16:37:41**: fix: calibrate baseline sensor offset against reference multimeter
