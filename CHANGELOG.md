@@ -57,3 +57,4 @@
 - **2026-03-07 15:48:50**: refactor: clean up debug logs and serial telemetry
 - **2026-03-07 16:37:41**: fix: calibrate baseline sensor offset against reference multimeter
 - **2026-03-10 14:45:26**: feat: implement moving average filter for noise suppression
+- **2026-03-10 14:52:38**: perf: optimize memory footprint by reducing ring buffer depth
