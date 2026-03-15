@@ -60,3 +60,4 @@
 - **2026-03-10 14:52:38**: perf: optimize memory footprint by reducing ring buffer depth
 - **2026-03-11 11:49:19**: test: validate thermal stability over continuous 6-hour test run
 - **2026-03-11 20:05:17**: feat: implement low-power light sleep mode during idle intervals
+- **2026-03-15 15:15:21**: perf: tune FreeRTOS task priority to eliminate frame drops
