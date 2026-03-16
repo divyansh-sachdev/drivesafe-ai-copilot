@@ -62,3 +62,4 @@
 - **2026-03-11 20:05:17**: feat: implement low-power light sleep mode during idle intervals
 - **2026-03-15 15:15:21**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2026-03-15 18:44:19**: refactor: simplify state machine transition logic
+- **2026-03-16 16:15:16**: docs: update README setup instructions and dependencies
