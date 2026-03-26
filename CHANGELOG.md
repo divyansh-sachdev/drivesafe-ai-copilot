@@ -65,3 +65,4 @@
 - **2026-03-16 16:15:16**: docs: update README setup instructions and dependencies
 - **2026-03-21 16:07:16**: fix: prevent buffer underflow during rapid sensor reads
 - **2026-03-24 18:05:43**: refactor: modularize signal processing functions into separate header
+- **2026-03-26 21:25:17**: fix: prevent buffer underflow during rapid sensor reads
